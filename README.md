@@ -1,0 +1,1 @@
+<p align="center"><img src="https://socialify.git.ci/Alidev11/DSA-grind/image?issues=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Light" alt="project-image" width="850"></p>
